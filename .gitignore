@@ -1,0 +1,9 @@
+/app/**/*.js
+/app/**/*.js.map
+/typings/*
+/node_modules/*
+npm-debug.log
+bs.config.json~
+.idea/**/*
+TPL-Framework.iml
+*~
